@@ -1,0 +1,28 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João",
+      "idade": 30,
+      "email": "oqibz@example.com"
+    },
+    {
+      "nome": "Rafael",
+      "idade": "19",
+      "email": "rafa@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Cristiano Ronaldo",
+      "idade": "39",
+      "email": "realmadrid@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "Flavio Caça-Rato",
+      "idade": "32",
+      "email": "flavindelas@gmail.com",
+      "id": 4
+    }
+  ]
+}
